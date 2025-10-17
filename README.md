@@ -1,5 +1,8 @@
 # 📋 **Sobre o Projeto**
-Este repositório contém um sistema de cadastro de pacientes desenvolvido em Python para fins acadêmicos, como parte da disciplina PROJETO INTEGRADO INOVAÇÃO do curso de Análise e Desenvolvimento de Sistemas. A versão inical (v0.0.1) representa a implementação de sistema básico de cadastro.
+Este repositório contém um sistema de cadastro de pacientes desenvolvido em Python para fins acadêmicos, como parte da disciplina PROJETO INTEGRADO INOVAÇÃO do curso de Análise e Desenvolvimento de Sistemas da faculdade Anhanguera - Botucatu. 
+> [!IMPORTANT]
+> A versão inical (Plataforma_saude.py) representa a implementação de sistema básico de cadastro de saúde e é a versão para a disciplina já
+> citada acima, mais abaixo há o caminho para o arquivo em questão.
 
 # **Funcionalidades Principais**
 - Cadastro de pacientes (nome, idade, telefone)
@@ -11,18 +14,19 @@ Este repositório contém um sistema de cadastro de pacientes desenvolvido em Py
 
 # 🗂️ **Estrutura do Repositório**
 - `plataforma-cadastro-saude/` (diretório raiz)
-  - 📄 `README.md` (este arquivo)
   - 📁 `PROJETO INTEGRADO INOVAÇÃO - ANÁLISE E DESENVOLVIMENTO DE SISTEMAS/`
     - 📄 `README.md` (documentação técnica detalhada)
-    - 🐍 `plataforma-saude.py`
+    - 🐍 `plataforma-saude.py` (arquivo para disciplina)
     - 🐍 `plataforma-saude-v0.0.2.py`
-  - 📁 `data_saúde/` (dados persistidos - v0.0.2)
-## 💡 *Dica:*
-Se você não está familiarizado com a estrutura do GitHub, o código fonte e a documentação técnica completa estão localizados na pasta PROJETO INTEGRADO INOVAÇÃO - ANÁLISE E DESENVOLVIMENTO DE SISTEMAS. Lá você encontrará um README específico com informações técnicas detalhadas e atualizadas sobre as versões do projeto.
+  - 📄 `CITATION.cff` (para fácil citação)
+  - 📄 `README.md` (este arquivo)
+> [!TIP]
+> Se você não está familiarizado com a estrutura do GitHub, o código fonte e a documentação técnica completa estão localizados na pasta PROJETO INTEGRADO INOVAÇÃO - ANÁLISE E DESENVOLVIMENTO DE SISTEMAS. Lá você encontrará um README específico com informações técnicas detalhadas e atualizadas sobre as versões do projeto.
 
 
 # 🚀 **Versões e Evolução**
-## 🔄 *Novas Versões*: Este projeto está em constante evolução! Novas versões com melhorias e funcionalidades adicionais serão disponibilizadas na subpasta mencionada acima. A versão atual (v0.0.2) representa a implementação de persistência de dados.
+> [!NOTE]
+> 🔄*Novas Versões*: Este projeto ainda está em evolução! Novas versões com melhorias e funcionalidades adicionais serão disponibilizadas na subpasta mencionada acima. A versão atual (v0.0.2) representa a implementação de persistência de dados.
 
 | Versão |	Status |	Principais Características |
 |--- |--- |--- |
